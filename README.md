@@ -87,18 +87,6 @@ Python   PyTorch   RT-DETR   CNNs   Transformers   Kaggle
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tauheed-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauheed-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9"/>
-
-</div>
-
-<br/>
-
 ## 🔗 Connect
 
 <div align="center">
