@@ -7,15 +7,15 @@
 <br/>
 
 ```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │                                                                 │
-  │   > whoami                                                      │
-  │                                                                 │
-  │   BTech CS @ Jamia MIllia Islamia  ──►  Software Engineer @ S&P Global      │
-  │   Obsessed with clean architecture & distributed systems        │
-  │   Building in public. Learning loudly.                          │
-  │                                                                 │
-  └─────────────────────────────────────────────────────────────────┘
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                                                                         │
+  │   > whoami                                                              │
+  │                                                                         │
+  │   BTech CS @ Jamia MIllia Islamia  ──►  Software Engineer @ S&P Global  │
+  │   Obsessed with clean architecture & distributed systems                │
+  │   Building in public. Learning loudly.                                  │
+  │                                                                         │
+  └─────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
